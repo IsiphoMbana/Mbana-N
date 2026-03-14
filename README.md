@@ -1,19 +1,82 @@
-<h1 align="center">Hi 👋, I'm Isipho Mbana</h1>
-<h3 align="center">I'm a Bachelor of Computing student</h3>
+<div align="center">
+  <img src="https://media.giphy.com/media/LmN8Xc8rO1qcg/giphy.gif" width="50" height="50"/>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=isiphombana&label=Profile%20views&color=0e75b6&style=flat" alt="isiphombana" /> </p>
+# Hey there! 👋 I'm Nasisipho Mbana 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isiphombana" alt="isiphombana" /></a> </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=003fef&width=435&lines=Aspiring+Data+Scientist)](https://git.io/typing-svg)
 
-- 📫 How to reach me **nasieisiphombana@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 💻 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+- 🎓 **Education**: Currently pursuing a Bachelor's in Computing.
+- 💻 **Interests**: SQL, Artificial Intelligence, and Web Development.
+- 🌱 **Learning**: Constantly expanding my knowledge in Python, Java, and C#.
+- 🌍 **Location**: Gauteng, South Africa.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isiphombana&show_icons=true&locale=en&layout=compact" alt="isiphombana" /></p>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isiphombana&show_icons=true&locale=en" alt="isiphombana" /></p>
+
+---
+
+## 🛠️ Technology Ecosystem
+
+### 💻 Programming Languages
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+<!-- TODO: Add/remove languages based on your actual skills -->
+
+<!-- TODO: Add your actual frameworks -->
+
+### ☁️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+<!-- TODO: Add your cloud/devops tools -->
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+<!-- TODO: Add your databases (e.g., PostgreSQL, MongoDB) -->
+
+---
+
+## 🎯 Interests
+
+    
+- Group project collaborations
+- Web Designing 
+- Database Development
+
+---
+
+
+## 🌐 Get in Touch
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_PROFILE) <!-- TODO: Add your LinkedIn -->
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nasieisiphombana@gmail.com) 
+
+
+</div>
+
+---
+
+## Let's Collaborate!
+
+I'm always open to exciting opportunities and collaborations. Whether it's a project, internship, or a full-time role, feel free to reach out. Let's create something amazing together!
+"""
+
+---
+
+<div align="center">
+
+
+  ### 🚀 "The only way to do great work is to love what you do"
+
+ 
